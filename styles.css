@@ -1,0 +1,102 @@
+@charset "utf-8";
+main {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: auto;
+	padding-bottom: auto;
+	background-color: #F5F5F5;
+	height: 0px;
+}
+#Hero {
+	background-image: url(Images/child.png);
+	width: 731px;
+	height: 43px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-top: 200px;
+	color: #34B40D;
+}
+#Hero h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 28px;
+	background-color: #FAFAFA;
+}
+#Hero p {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	text-align: center;
+	font-size: x-large;
+	background-color: #FDFDFD;
+}
+#location article {
+	width: 600px;
+	float: left;
+}
+#location aside {
+	width: 600px;
+	float: left;
+	text-align: left;
+	margin-left: 40px;
+}
+.clearfix {
+	display: block;
+	margin: 0;
+	clear: both;
+	height: 0px;
+}
+#location {
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	width: 40px;
+}
+#location article h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 36pt;
+}
+#location article h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 36px;
+}
+#location article img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}
+main footer p {
+}
+main footer p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+footer {
+	width: 1140px;
+	height: 240px;
+	background-color: rgba(109,122,249,1.00);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen{
+}
